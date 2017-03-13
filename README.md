@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+
+Tinz here, I would like to know more about coding.
